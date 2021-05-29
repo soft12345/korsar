@@ -1,0 +1,23 @@
+body {
+    font-family: sans-serif;
+}
+header{
+background-color:black;
+color:white;
+}
+nav{
+color:white;
+background-color:black;
+margin: 30px;
+}
+nav a{
+color:white;
+text-decoration:none;
+margin: 20px;
+font-size: 20px
+}
+table, td,tr{ border: 3px solid peru
+
+
+
+}
